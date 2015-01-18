@@ -1,6 +1,7 @@
 body {
   backgrand: tomato;
   text-align: right;
+  padding: 30px 60px;
 }
 li {
   display: block;
