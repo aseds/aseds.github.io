@@ -5,6 +5,7 @@ body {
 }
 li {
   display: block;
+  margin: 5px;
 }
 td {
   padding: 10px !important;
