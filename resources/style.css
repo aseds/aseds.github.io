@@ -3,6 +3,10 @@ body {
   text-align: right;
   padding: 30px 60px;
 }
+nav {
+  text-align: left;
+  
+}
 li {
   display: block;
   margin: 5px;
