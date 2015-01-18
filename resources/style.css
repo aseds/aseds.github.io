@@ -5,3 +5,6 @@ td {
   padding: 10px !important;
   text-align: center;
 }
+tbody {
+  margin: 50px;
+}
