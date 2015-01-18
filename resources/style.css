@@ -1,5 +1,9 @@
 body {
-  backgrang: tomato;
+  backgrand: tomato;
+  text-align: right;
+}
+li {
+  display: block;
 }
 td {
   padding: 10px !important;
